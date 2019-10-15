@@ -6,7 +6,7 @@
 
   <groupId>eu.testarchitect.sandbox</groupId>
   <artifactId>sandbox</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
 
   <name>sandbox</name>
   <!-- FIXME change it to the project's website -->
